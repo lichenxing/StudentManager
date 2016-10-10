@@ -8,7 +8,7 @@ import com.student.bean.*;
 public class DB {
 
 	private String driver = "com.mysql.jdbc.Driver";
-     //StudentManager 为对应的数据库的名称
+     
 	private String url = "jdbc:mysql://localhost:3306/StudentManager";
 	
 	private String user = "root";
